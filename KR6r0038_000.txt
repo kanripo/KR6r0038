@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 提婆菩薩傳
+#+DATE: 2015-08-30 22:15:11.267981
+#+PROPERTY: JUAN 0
