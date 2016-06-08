@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 22:15:11.615239
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:11
 #+TITLE: 提婆菩薩傳
 #+PROPERTY: CBETA_ID T50n2048
 #+PROPERTY: ID KR6r0038
